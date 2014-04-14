@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 import sys
 from argparse import ArgumentParser
 from urllib2 import urlopen
